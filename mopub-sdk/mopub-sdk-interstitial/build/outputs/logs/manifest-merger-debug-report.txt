@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+		ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+		ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:1-4:12
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml:3:5-19
+uses-sdk
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+		ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+		ADDED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
+		INJECTED from F:\Mobile Development\Application\mopub-sdk\mopub-sdk-interstitial\src\main\AndroidManifest.xml
